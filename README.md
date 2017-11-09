@@ -31,7 +31,7 @@ Check Installation:
         import cv2
         print (cv2.__version__)
         
-4.- If you got the next result the installation is complete        
+4.- If you got the next result the installation is complete:
         
    ![alt text](https://github.com/totovr/OpenCV3/blob/master/Images/Complete.png)
 

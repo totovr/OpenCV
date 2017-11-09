@@ -31,6 +31,6 @@ Check Installation:
         import cv2
         print (cv2.__version__)
         
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/totovr/OpenCV3/blob/master/Images/Complete.png)
 
 

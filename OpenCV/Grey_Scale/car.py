@@ -21,7 +21,7 @@ def main():
     cv2.imshow('Window',img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    #In Mac you have to add another waitKey
+    #In Spyder you have to add another waitKey
     cv2.waitKey(1)
         
     

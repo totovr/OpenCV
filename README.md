@@ -26,11 +26,13 @@ Check Installation:
 
 2.- Open Spider
 
-3.- type the next commands:
+3.- Type the next commands inside Spider IPython console:
 
         import cv2
         print (cv2.__version__)
         
-![alt text](https://github.com/totovr/OpenCV3/blob/master/Images/Complete.png)
+4.- If you got the next result the installation is complete        
+        
+    ![alt text](https://github.com/totovr/OpenCV3/blob/master/Images/Complete.png)
 
 

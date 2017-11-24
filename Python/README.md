@@ -21,7 +21,7 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
         
 4. If you go the next image the library was correctly installed
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Complete.png" width="900">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Complete.png" width="500">
 
 ## Example
 

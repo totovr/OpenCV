@@ -10,14 +10,59 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
 
 ## Check Installation:
 
-1. Open Anaconda
+1. Launch Anaconda
 
-2. Open Spider
+2. Launch Spyder
 
-3. type the next commands:
+3. Type the next commands:
 
         import cv2
         print (cv2.__version__)
+        
+4. If you go the next image the library was correctly installed
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Complete.png" width="300">
+
+## Example
+
+1. Launch Anaconda 
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Anaconda.png" width="300">
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Panel.png" width="300">
+
+2. Launch the enviroment Spyder
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Spyder.png" width="300">
+
+3. Write the next script [hand](https://github.com/totovr/OpenCV/blob/Python/Python/Hand/hand.py)
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/script.png" width="300">
+
+4. Run
+
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/run.png" width="300">
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/totovr/Processing/blob/master/CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+I use [SemVer](http://semver.org/) for versioning.
+
+## Author
+
+Antonio Vega Ramirez:
+
+* [Github](https://github.com/totovr)
+* [Twitter](https://twitter.com/SpainDice)
+
+## License
+
+This project is licensed under CC License - see the [LICENSE.md](https://github.com/totovr/OpenCV/blob/master/LICENSE.md) file for details
+
+
 
 
 

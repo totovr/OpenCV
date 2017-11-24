@@ -23,8 +23,9 @@ Alternative:
 
 ### Installing
 
-* Check this link to install (https://github.com/totovr/Python)
-* Check this link to install [OpenCV3](https://github.com/totovr/OpenCV/tree/Python/Python) with Anaconda
+* Check this link to install [Python 3](https://github.com/totovr/Python)
+* Install the last stable version of [Anaconda](https://www.anaconda.com/download/#macos) for Python 3.6
+* Check this link to install [OpenCV3](https://github.com/totovr/OpenCV/tree/Python/Python) once you had already installed       Anaconda 
 
 ## Also you can use this editor to build programs:
 

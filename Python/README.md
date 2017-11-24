@@ -6,7 +6,7 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
 
 * Install OpenCV with the next command in the terminal:
 
-    conda install -c conda-forge opencv
+        conda install -c conda-forge opencv
 
 ## Check Installation:
 

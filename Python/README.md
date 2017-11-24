@@ -27,21 +27,21 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
 
 1. Launch Anaconda 
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Anaconda.png" width="300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Anaconda.png" width="50">
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Panel.png" width="300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Panel.png" width="1500">
 
 2. Launch the enviroment Spyder
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Spyder.png" width="300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Spyder.png" width="120">
 
 3. Write the next script [hand](https://github.com/totovr/OpenCV/blob/Python/Python/Hand/hand.py)
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/script.png" width="300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/script.png" width="1500">
 
 4. Run
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/run.png" width="300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/run.png" width="50">
 
 ## Contributing
 

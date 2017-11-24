@@ -21,7 +21,7 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
         
 4. If you go the next image the library was correctly installed
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Complete.png" width="1300">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Complete.png" width="900">
 
 ## Example
 
@@ -33,7 +33,7 @@ OpenCV3 examples using Python version 3.3.6 in Anaconda and OS X Sierra
 
 2. Launch the enviroment Spyder
 
-<img src="https://github.com/totovr/OpenCV/blob/master/Images/Spyder.png" width="120">
+<img src="https://github.com/totovr/OpenCV/blob/master/Images/Spyder.png" width="180">
 
 3. Write the next script [hand](https://github.com/totovr/OpenCV/blob/Python/Python/Hand/hand.py)
 

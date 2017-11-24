@@ -14,18 +14,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Python 3
 * A computer with OSX, Windows, Linux
-*Anaconda
+* Anaconda
 
 Alternative:
 
 * Processing
-*Raspberry
+* Raspberry
 
 ### Installing
 
-* Check this link to install [Python]
-* Check this link to install [Anaconda]
-* Check this link to install [OpenCV3]
+* Check this link to install (https://github.com/totovr/Python)
+* Check this link to install [OpenCV3](https://github.com/totovr/OpenCV/tree/Python/Python) with Anaconda
 
 ## Also you can use this editor to build programs:
 
